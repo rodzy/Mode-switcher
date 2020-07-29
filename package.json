@@ -1,0 +1,31 @@
+{
+  "name": "mode-switcher",
+  "version": "1.0.0",
+  "description": "Basic switch package for React",
+  "main": "index.js",
+  "repository": "https://github.com/rodzy/mode-switcher",
+  "author": "https://github.com/rodzy",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "styleguidist server"
+  },
+  "dependencies": {
+    "babel-plugin-module-resolver": "^4.0.0"
+  },
+  "peerDependencies": {
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "@testing-library/react": "^10.4.7",
+    "jest": "^26.1.0",
+    "react-styleguidist": "^11.0.8",
+    "webpack": "^4.44.0"
+  }
+}
