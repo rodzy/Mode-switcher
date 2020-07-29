@@ -11,7 +11,8 @@
     "start": "styleguidist server"
   },
   "dependencies": {
-    "babel-plugin-module-resolver": "^4.0.0"
+    "babel-plugin-module-resolver": "^4.0.0",
+    "react-switch": "^5.0.1"
   },
   "peerDependencies": {
     "@emotion/core": "^10.0.28",
