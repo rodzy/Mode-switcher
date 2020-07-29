@@ -1,5 +1,5 @@
 Switcher example:
 
 ```js
-<Switcher emojiLight="🌞" emojiDark="🌑"/>
+<Switcher emojiLight="🌞" emojiDark="🌚"/>
 ```
