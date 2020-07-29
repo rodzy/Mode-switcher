@@ -31,5 +31,8 @@
     "react-dom": "^16.13.1",
     "react-styleguidist": "^11.0.8",
     "webpack": "^4.44.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
