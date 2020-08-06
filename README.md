@@ -5,6 +5,7 @@
 ![CircleCI](https://img.shields.io/circleci/build/github/rodzy/Mode-switcher)
 ![GitHub package.json dependency version (dev dep on branch)](https://img.shields.io/github/package-json/dependency-version/rodzy/Mode-switcher/dev/@babel/preset-react)
 ![npm](https://img.shields.io/npm/v/mode-switcher)
+[![npm](https://img.shields.io/npm/dm/mode-switcher?logo=npm)](https://npmjs.com/package/mode-switcher)
 
 A reusable toggle UI component for React to switch between modes.
 
